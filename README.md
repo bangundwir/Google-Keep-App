@@ -1,6 +1,7 @@
 # Google Keep Desktop App
 
 \[Unaffiliated] Google Keep as a desktop app using Tauri
+![image](https://user-images.githubusercontent.com/17474376/211309982-70084602-8516-44ed-9323-adf614fbaab5.png)
 
 ## How to run
 
